@@ -32,24 +32,30 @@
 ## Contact :iphone:
 
 <p align="center">
+  
     <a href="https://github.com/KauaAlmeidaSilveira">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/KauaAlmeidaSilveira">
     </a>
+  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
     <a href="mailto:kauiis.a.silveira@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kauiis.a.silveira@gmail.com">
     </a>
+  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
     <a href="https://www.linkedin.com/in/mateusaraujobarros">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg&style=forthebadge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
+  
 </p>
 
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/KauaAlmeidaSilveira/count.svg" />
  </p>
 
 </p>
