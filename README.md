@@ -9,14 +9,14 @@
   <a href="https://github.com/KauaAlmeidaSilveira">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAlmeidaSilveira&layout=compact&langs_count=7&theme=chartreuse-dark"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=KauaAlmeidaSilveira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" 
     />
   </a>
   <a href="https://github.com/KauaAlmeidaSilveira">
     <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=KauaAlmeidaSilveira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"
+       align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAlmeidaSilveira&layout=compact&langs_count=7&theme=chartreuse-dark"
     />
   </a>
 </p>
