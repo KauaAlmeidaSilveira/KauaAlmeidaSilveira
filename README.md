@@ -2,7 +2,6 @@
 
 - 🌱 Estudante de Desenvolvimento de Sistemas.
 - 🔭 Atualmente trabalho com assitência técnica em informática, na Start Solução
-- 😄 Pronouns: ele/dele
 - 💙 Interesse: Java, html, css, javaScript.
 
 <p align="center">
