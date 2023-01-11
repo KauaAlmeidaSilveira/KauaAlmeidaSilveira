@@ -1,6 +1,6 @@
 ### Olá tudo ótimo? Sou o Kauã Almeida Silveira 👋
 
-- 🌱 Estudante de Desenvolvimento de Sistemas.
+- 🌱 Formado em Desenvolvimento de Sistemas (ETEC Vila Formosa).
 - 🔭 Atualmente trabalho como Auxiliar de Suporte TI, na UniDrummond
 - 💙 Interesse: Java, html, css, javaScript.
 
