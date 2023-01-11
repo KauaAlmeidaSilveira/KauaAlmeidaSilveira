@@ -1,7 +1,7 @@
 ### Olá tudo ótimo? Sou o Kauã Almeida Silveira 👋
 
 - 🌱 Estudante de Desenvolvimento de Sistemas.
-- 🔭 Atualmente trabalho com assitência técnica em informática, na Start Solução
+- 🔭 Atualmente trabalho como Auxiliar de Suporte TI, na UniDrummond
 - 💙 Interesse: Java, html, css, javaScript.
 
 <p align="center">
