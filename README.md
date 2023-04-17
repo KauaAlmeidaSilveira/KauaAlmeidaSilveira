@@ -1,7 +1,7 @@
 ### Olá tudo ótimo? Sou o Kauã Almeida Silveira 👋
 
 - Formado em Desenvolvimento de Sistemas (ETEC Vila Formosa).
-- Cursando ensino superior em Análise e Desenvolvimento de Sistemas na USJT 
+- Cursando ensino superior em Análise e Desenvolvimento de Sistemas na Impacta 
 - Atualmente trabalho como Auxiliar de Suporte Tecnico, na UniDrummond
 - Interesse: Desenvolvedor Front-End || Full-stack
 
