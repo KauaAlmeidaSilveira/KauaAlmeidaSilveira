@@ -3,7 +3,7 @@
 - Formado em Desenvolvimento de Sistemas (ETEC Vila Formosa).
 - Cursando ensino superior em Análise e Desenvolvimento de Sistemas na Impacta 
 - Atualmente trabalho como Auxiliar de Suporte Tecnico, na UniDrummond
-- Interesse: Desenvolvedor Front-End || Full-stack
+- Interesse: Desenvolvedor Back-End
 
 <p align="center">
   <a href="https://github.com/KauaAlmeidaSilveira">
