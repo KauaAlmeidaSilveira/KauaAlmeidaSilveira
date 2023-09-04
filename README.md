@@ -1,9 +1,9 @@
 ### Olá tudo ótimo? Sou o Kauã Almeida Silveira 👋
 
-- Formado em Desenvolvimento de Sistemas (ETEC Vila Formosa).
-- Cursando ensino superior em Análise e Desenvolvimento de Sistemas na FIAP 
-- Atualmente trabalho como Auxiliar de Suporte Tecnico, na UniDrummond
-- Interesse: Desenvolvedor Back-End
+- ☕ Desenvolvedor Back-End;
+- 🎓 Formado em Desenvolvimento de Sistemas Técnico (ETEC Vila Formosa);
+- 📚 Cursando ensino superior em Análise e Desenvolvimento de Sistemas na FIAP;
+- 👨‍💻 Atualmente trabalho como Auxiliar de Suporte Tecnico, na UniDrummond.
 
 <p align="center">
     <a href="https://github.com/KauaAlmeidaSilveira">
@@ -27,13 +27,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" width="60" height="50" alt="GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="GIT"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
+    <img align="center" width="60" height="50" alt="MAVEN"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" width="60" height="50" alt="JS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img align="center" width="60" height="50" alt="TYPESCRIPT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img align="center" width="60" height="50" alt="MONGODB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   
 </p>
 
