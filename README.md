@@ -1,6 +1,6 @@
 ### Olá tudo ótimo? Sou o Kauã Almeida Silveira 👋
 
-- ☕ Desenvolvedor Back-End;
+- ☕ Desenvolvedor Back-End Java;
 - 🎓 Formado em Desenvolvimento de Sistemas Técnico (ETEC Vila Formosa);
 - 📚 Cursando ensino superior em Análise e Desenvolvimento de Sistemas na FIAP;
 - 👨‍💻 Atualmente trabalho como Auxiliar de Suporte Tecnico, na UniDrummond.
