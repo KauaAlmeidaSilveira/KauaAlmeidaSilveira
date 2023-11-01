@@ -3,7 +3,7 @@
 - ☕ Desenvolvedor Back-End Java;
 - 🎓 Formado em Desenvolvimento de Sistemas Técnico (ETEC Vila Formosa);
 - 📚 Cursando ensino superior em Análise e Desenvolvimento de Sistemas na FIAP;
-- 👨‍💻 Atualmente trabalho como Auxiliar de Suporte Tecnico, na UniDrummond.
+- 👨‍💻 Atualmente trabalho como Analista de Suporte Computacional, na UniDrummond.
 
 <p align="center">
     <a href="https://github.com/KauaAlmeidaSilveira">
