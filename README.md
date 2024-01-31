@@ -6,8 +6,8 @@
 - 👨‍💻 Atualmente trabalho como Analista de Suporte Computacional, na UniDrummond.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaAlmeidaSilveira&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=161B22" alt="Victor Shimada github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAlmeidaSilveira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=161B22" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaAlmeidaSilveira&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117" alt="Victor Shimada github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAlmeidaSilveira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1117" />
 </div>
 
 ## Back End
