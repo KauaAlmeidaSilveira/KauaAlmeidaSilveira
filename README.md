@@ -5,56 +5,29 @@
 - 📚 Cursando ensino superior em Análise e Desenvolvimento de Sistemas na FIAP;
 - 👨‍💻 Atualmente trabalho como Analista de Suporte Computacional, na UniDrummond.
 
-<p align="center">
-    <a href="https://github.com/KauaAlmeidaSilveira">
-        <img align="center" height="165"
-        src="https://github-readme-stats.vercel.app/api?username=KauaAlmeidaSilveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/KauaAlmeidaSilveira">
-        <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAlmeidaSilveira&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauaAlmeidaSilveira&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=161B22" alt="Victor Shimada github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaAlmeidaSilveira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=161B22" />
+</div>
 
-## Skills
-<p align="center">
-    <img align="center" width="60" height="50" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="GIT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="MAVEN"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="JS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="TYPESCRIPT"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" width="60" height="50" alt="MONGODB"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  
-</p>
+## Back End
+[![](https://skillicons.dev/icons?i=java,spring,idea,hibernate,postgres,git,mongodb,maven,mysql)](https://skillicons.dev)
+
+## Front End
+[![](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,java,figma)](https://skillicons.dev)
 
 ## Contact :iphone:
 
-<p align="center">
-    <a href="mailto:kaua.a.silveira@hotmail.com">
-        <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732223.png">
-    </a>
+<div align="center">
+    <a href="mailto:kaua.a.silveira@hotmail.com"><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732223.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kaua-silveira2004/">
-        <img height="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png">
-    </a>
-</p>
+    <a href="https://www.linkedin.com/in/kaua-silveira2004/"><img height="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://api.whatsapp.com/send/?phone=%2B5511963689880&text&app_absent=0" target="_blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" target="_blank"></a>
+</div>
 
+## Total de Visitas no perfil :detective:
 
-<p align="center"> 
-
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/KauaAlmeidaSilveira/count.svg" />
- </p>
-
-</p>
+<div align="center"> 
+    <p align="center"> <img align="center" src="https://profile-counter.glitch.me/KauaAlmeidaSilveira/count.svg" /></p>
+</div>
