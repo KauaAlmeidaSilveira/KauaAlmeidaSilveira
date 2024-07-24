@@ -21,7 +21,7 @@
 <div align="center">
     <a href="mailto:kaua.a.silveira@hotmail.com"><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732223.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/kaua-silveira2004/"><img height="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a>
+    <a href="https://www.linkedin.com/in/kauaalmeidasilveira/"><img height="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://api.whatsapp.com/send/?phone=%2B5511963689880&text&app_absent=0" target="_blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" target="_blank"></a>
 </div>
