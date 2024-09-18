@@ -16,7 +16,7 @@
 ## Front End
 [![](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,java,figma)](https://skillicons.dev)
 
-## Contact :iphone:
+## Contato :iphone:
 
 <div align="center">
     <a href="mailto:kaua.a.silveira@hotmail.com"><img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732223.png"></a>
